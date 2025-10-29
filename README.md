@@ -1,1 +1,2 @@
 # selfGaussian_splatting
+该仓库作为3dgs的个人研究项目，存放一些训练素材与日志
