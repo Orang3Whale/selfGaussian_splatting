@@ -25,3 +25,9 @@ ENV/
 
 # Environment
 .env
+
+# Logs
+*.log
+
+#raw_wild_gaussian
+raw_wild_gaussian/
